@@ -1,0 +1,10 @@
+[33m4a3c06e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m added new favicon for new GDFTv2 app
+[33m3cef734[m Delete public/favicon.ico
+[33mc317354[m Update README.md
+[33m008531c[m fixed all errors & added Save button to 2ndHealthMetrics.tsx
+[33m7b09f85[m feat: Update help files and add BMI calculator
+[33mc6c1054[m feat: Implement BMI calculator with persistence and graph
+[33m9e8eca5[m Update .gitignore and untrack node_modules
+[33maab86f8[m fixed all previous erros and updated Body Metrics
+[33m5e591ff[m Completed dropdown implementation and error fixes
+[33me88fe0e[m Implemented scheduling flow improvements and help icon
